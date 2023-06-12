@@ -1,0 +1,7 @@
+main(){
+int a,b;
+int c;
+b=0;a=5;
+if(a>b)c=a;
+else{c=b+5;b=a;}
+}
